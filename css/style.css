@@ -450,7 +450,7 @@
 			input[type="button"].alt:hover,
 			.button.alt:hover {
 				background: white;
-				color: #82b440;
+				color: #334d4d;
 			}
 
 		input[type="submit"].fit,
@@ -528,7 +528,7 @@
 			}
 
 			.wrapper.style3 p {
-				font-size: 1.6em;
+				font-size: 1em;
 			}
 
 		.wrapper.style4 {
